@@ -23,7 +23,7 @@ Ubica el archivo config.properties en la raíz del proyecto (o crea uno si no ex
 Agrega tu clave de API y la URL base en el archivo con el siguiente formato:
 properties
 API_KEY=aqui_va_tu_clave_api
-API_URL=https://v6.exchangerate-api.com/v6/
+[API_URL=https://www.exchangerate-api.com/]
 
 🖥️ Uso
 Al iniciar el programa, se mostrará un menú interactivo en la consola.

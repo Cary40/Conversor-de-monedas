@@ -32,8 +32,8 @@ Ingresa el monto que deseas convertir.
 El programa realizará una solicitud a la API externa para obtener la tasa de cambio actual y mostrará el resultado de la conversión.
 
 📂 Estructura del proyecto
-Code
-Conversor-de-monedas/
+
+```
 ├── ConversorMonedas/
 │   ├── Menu.java        # Clase principal que maneja el flujo del programa
 │   ├── Conversor.java   # Lógica principal para realizar conversiones
@@ -41,6 +41,7 @@ Conversor-de-monedas/
 │   └── ApiClient.java   # Cliente para interactuar con la API externa
 ├── config.properties    # Archivo de configuración para la clave y URL de la API
 └── README.md            # Documentación del proyecto
+```
 
 🧩 Funcionalidades
 Interfaz interactiva: Menú basado en consola para una experiencia fácil de usar.
